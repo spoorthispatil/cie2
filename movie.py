@@ -16,6 +16,6 @@ else:
 print("Movie Information:")
 print("Script Name:",script_name)
 print("Movie Name:",name)
-print("Duration:{duration} hours")
+print("Duration:",duration,"hours")
 print("Language:",language)
 print("Price: Rs.",price)
