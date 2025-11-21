@@ -13,8 +13,9 @@ else:
     language="Telugu"  
     price=250.0
     print("No input given - using default information.")
+print("Movie Information:")
 print("Script Name:",script_name)
-print("Movie Name:",name_)
+print("Movie Name:",name)
 print("Duration:{duration} hours")
 print("Language:",language)
 print("Price: Rs.",price)
